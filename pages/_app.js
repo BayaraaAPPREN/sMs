@@ -70,8 +70,8 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <title>Notus NextJS by Creative Tim</title>
-          <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+          <title>Unitem SMS webapp</title>
+          <script src="https://d3ml3b6vywsj0z.cloudfront.net/company_images/5c3b06cdd55ae49f1b7fb943_images.png"></script>
         </Head>
         <Layout>
           <Component {...pageProps} />
